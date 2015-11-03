@@ -1,0 +1,23 @@
+name: Property Investment
+favicon: null
+layout_spectrum: 0.5768635191489011
+typography_spectrum: 0.045463398564606905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8012232531327754
+  lightness: 0.7455350619275123
+  saturation: 0.22038832074031234
+  rhythmicContrast: 0.6334606539458036
+purpose: []
